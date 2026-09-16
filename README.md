@@ -359,3 +359,5 @@ NO_DNA=1 anchor test --skip-local-validator
 
 For the current LiteSVM tests, the direct Cargo command is the clearest option
 because it uses the test harness already defined in `programs/amm-video/tests`.
+
+<img width="948" height="447" alt="AMM" src="https://github.com/user-attachments/assets/e7f9bc38-042f-4312-a714-ff664fc94ff2" />
